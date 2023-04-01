@@ -17,6 +17,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub"  alt="GitHub" width="40" height="40"/>&nbsp;
 </div>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LorenzoNicco&show_icons=true&bg_color=00000000) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LorenzoNicco&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **LorenzoNicco/LorenzoNicco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
