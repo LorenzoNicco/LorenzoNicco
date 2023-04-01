@@ -1,6 +1,8 @@
 ### Hi there! I'm Lorenzo and I am a Junior Full Stack Web Developer 👋
 
-### Technologies:
+---
+
+### :computer: Technologies:
 <div  class="background: white;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -17,7 +19,13 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub"  alt="GitHub" width="40" height="40"/>&nbsp;
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LorenzoNicco&show_icons=true&bg_color=00000000) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LorenzoNicco&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+---
+
+### :chart_with_upwards_trend: My GitHub Stats:
+<div>
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LorenzoNicco&show_icons=true&theme=transparent) 
+  [![Top Langs](https://github-readme- stats.vercel.app/api/top-langs/?username=LorenzoNicco&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
 
 <!--
