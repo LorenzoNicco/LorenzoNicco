@@ -36,6 +36,8 @@
   [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=LorenzoNicco&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LorenzoNicco&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  
+  [![trophy](https://github-profile-trophy.vercel.app/?username=LorenzoNicco&column=3&theme=algolia&margin-w=15&margin-h=15&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
 
 <!--
